@@ -1,3 +1,3 @@
 # Notes
 Heroku
-https://dashboard.heroku.com/apps/notehw/deploy/github
+https://notehw.herokuapp.com/
